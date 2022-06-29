@@ -8,7 +8,6 @@
       Git, Github, Responsive Typography, 
       Flexbox, Media Queries & Standard Breakpoints.
 
-https://www.linkedin.com/in/ali-kirat/
 
 <!---
 peripateticlearner/peripateticlearner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
