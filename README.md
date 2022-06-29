@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Ali Kirat. I'm an Entrepreneur, Educator, and Self-Taught coder and aspiring Data Scientist.
+- 👋 Hi, my name is Ali Kirat. I'm an entrepreneur, educator, and self-taught programmer and aspiring data scientist.
 - 👀 I’m interested in learning, coffee, hikes, traveling, and soccer.
 - 🌱 I’m currently learning everything. I'm learning python, fullstack development, and project managament. 
 - 💞️ I’m looking to collaborate with other content creators.
