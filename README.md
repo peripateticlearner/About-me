@@ -1,12 +1,12 @@
-- 👋 Hi, my name is Ali Kirat. I'm an entrepreneur, educator, and self-taught programmer and aspiring data scientist.
+- 👋 Hi, my name is Ali Kirat. I'm an entrepreneur, educator, and self-taught programmer.
 - 👀 I’m interested in learning, coffee, hikes, traveling, and soccer.
-- 🌱 I’m currently learning everything. I'm learning python, fullstack development, and project managament. 
+- 🌱 I’m learning Python, full-stack development, and product management. 
 - 💞️ I’m looking to collaborate with other content creators.
-- ⚡  Fun fact: I'm new to the world of coding, although I've been a connoisseur of tech for many years.
-- My skills include, but are not limited to: 
+- ⚡  Fun fact: I'm new to the world of coding, although I've been a tech connoisseur for many years.
+- My skills include, but are not limited to:
       HTML, CSS, Domains, Web Hosting, FTP, 
       Git, Github, Responsive Typography, 
-      Flexbox, Media Queries & Standard Breakpoints.
+      Flexbox, Media Queries, & Standard Breakpoints.
 
 
 <!---
