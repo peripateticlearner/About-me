@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Ali Kirat. I'm an self-taught front-end developer, entrepreneur, and educator.
+- 👋 Hi, my name is Ali Kirat. I'm a self-taught front-end developer, entrepreneur, and educator.
 - 👀 I’m interested in learning, coffee, hikes, traveling, and soccer.
 - 🌱 I’m learning Python, full-stack development, and product management. 
 - ⚡  Fun fact: I'm new to the world of coding, although I've been a tech connoisseur for many years.
