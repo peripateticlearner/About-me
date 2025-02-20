@@ -41,9 +41,9 @@ I'm a **software developer** passionate about building **scalable, user-friendly
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alikirat-dev&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peripateticlearner&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alikirat-dev&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peripateticlearner&layout=compact&theme=tokyonight)
 
 ---
 
