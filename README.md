@@ -50,6 +50,6 @@ I'm a **software developer** passionate about building **scalable, user-friendly
 ### 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-kirat/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikirat.dev@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://alikirat.dev)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](#coming-soon)
 
 💡 Always open to collaboration and new opportunities! Feel free to reach out. 🚀
