@@ -2,7 +2,7 @@
 
 ## 💻 Software Developer | Educator | Lifelong Learner
 
-I'm a **software developer** passionate about building **scalable, user-friendly applications**. My background as an **educator and business consultant** has shaped my ability to **learn quickly, teach others, and adapt to new challenges**. Currently, I'm completing my **Software Engineering program at Per Scholas**, where I'm deepening my expertise in **full-stack development, JavaScript, React, Node.js, and database management**.
+I'm a **software developer** passionate about building **scalable, user-friendly applications**. My background as an **educator and business consultant** has shaped my ability to **learn quickly, and adapt to new challenges**. Currently, I'm completing my **Software Engineering program at Per Scholas**, where I'm deepening my expertise in **full-stack development, JavaScript, React, Node.js, and database management**.
 
 ---
 
